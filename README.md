@@ -9,4 +9,4 @@ Tech: HTML5, CSS3 (Grid, Flexbox, variables), icons via font-awesome
 
 Interactions (CSS-only): Hover/focus states, smooth transitions, and overflow for long titles.
 
-Limitations: No JS or backend—this is a static UI prototype. (PS: the cards are linked to the Youtube video of that song)
+Limitations: No JS or backend—this is a static UI prototype. 
